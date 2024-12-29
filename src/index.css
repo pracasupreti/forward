@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.service {
+
+    @apply font-inter text-[53px] font-medium leading-[.72px] text-left text-[#727272];
+   }
+   
+   

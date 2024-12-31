@@ -16,7 +16,7 @@ import { Strategy } from "./Pages/Strategy";
 import SuccessStories from "./Pages/SuccessStories";
 import Partners from "./Pages/Partners";
 import ContactPage from "./Pages/Contact/Contact";
-import ExecutiveCommittee from "./Pages/ExecutiveCommitee/executiveCommitee";
+import ExecutiveCommittee from "./Pages/ExecutiveCommitee/ExecutiveCommitee";
 
 // Please merge
 

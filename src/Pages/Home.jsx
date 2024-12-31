@@ -11,7 +11,7 @@ import Forward from "../components/Forward";
 import Footer from "../components/Footer";
 import Logo from "../assets/favicon/forwardlogo.png";
 import AnotherBanner from "../Pages/Banner";
-import ExecutiveCommittee from "./ExecutiveCommitee/executiveCommitee";
+import ExecutiveCommittee from "./ExecutiveCommitee/ExecutiveCommitee";
 
 export const 
 
